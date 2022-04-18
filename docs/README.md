@@ -8,4 +8,4 @@
 - [x] `Judgement`: 볼 갯수, 스트라이크 갯수를 나타내는 공격에 대한 판정 결과를 나타낸다. 
 - [x] `Referee`: 심판의 역할이며 공격 `Numbers` 와 수비 `Numbers` 를 입력으로 받아 판정인 `Judgement` 를 생성한다.
 - [x] `RandomNumbersGenerator`: 요구사항 중 상대방(컴퓨터)의 수를 만들기 위한 클래스로 랜덤 숫자로 구성된 `Numbers` 를 만든다.
-- [ ] `NumberBaseballGame`: 사용자의 입력을 받고, 게임을 진행하는 역할을 한다.
+- [x] `NumberBaseballGame`: 사용자의 입력을 받고, 게임을 진행하는 역할을 한다.
