@@ -11,7 +11,7 @@ import static baseball.Constants.NUMBER_START;
 import static baseball.Constants.NUMBER_START_CHAR;
 
 public class Numbers {
-    private static void validateNumbers(final String numbers) {
+    public static void validateNumbers(final String numbers) {
         validateNullOrEmpty(numbers);
         validateLength(numbers);
         validateCharacterRange(numbers);
